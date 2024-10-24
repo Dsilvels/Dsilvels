@@ -1,0 +1,25 @@
+
+.body-class {color:000066}
+.header-class{
+    background-color: 000066; 
+    color:white;
+}
+.nav-class{
+    background-color: pink; 
+    font-weight: bold;
+}
+.title-class {color:black}
+.section-title-class {color:black}
+.text-class {color:rgba(255, 28, 71, 1)}
+.image-class{
+    border: 5px solid black;
+    border-radius: 10px;
+}
+.form-class {color:pink}
+.footer-class {
+    background-color:purple; 
+    color:white;
+    .button-class {
+    background-color: green; 
+    color:black;
+}
