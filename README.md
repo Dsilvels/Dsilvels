@@ -1,6 +1,6 @@
-#Hi I am Domineece Silvels! 
+Hi I am Domineece Silvels! 
 
-#About me 
+About me 
 
 I am a Computer Science student at York University. I enjoy learning about technology, solving problems, and building my coding skills
 
@@ -14,7 +14,7 @@ I am interested in project management and product management, and I am excited t
 - GitHub
 - Visual Studio Code
 
-#Current Learning Goals
+Current Learning Goals
 - Web Development with Django
 - Working on computer science projects for my classes
 - Learn more about product and project management
@@ -25,3 +25,10 @@ Personal Email:Domineece1@gmail.com
 Phone: (619 772-9964)
 Github: Dsilvels
 
+
+A Little More About Me:
+-I am a Senior Computer Science Major 
+-I am excited to learn more about technology
+-I cannot wait to learn about product and project management!
+
+Thank you for visiting my profile!
