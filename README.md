@@ -1,12 +1,12 @@
-#Hi I am Domineece Silvels! 
+Welcome to my GitHub profile!
 
-#About me 
+Hi I am Domineece Silvels! 
+About me 
 
 I am a Computer Science student at York University. I enjoy learning about technology, solving problems, and building my coding skills
 
 I am interested in project management and product management, and I am excited to continue learning and gaining experience in the technology field. I want to be more on the leadership side of technology rather than coding!
-
-#Technical Skills
+Technical Skills
 
 - Python
 - HTML
@@ -14,12 +14,12 @@ I am interested in project management and product management, and I am excited t
 - GitHub
 - Visual Studio Code
 
-#Current Learning Goals
+Current Learning Goals
 - Web Development with Django
 - Working on computer science projects for my classes
 - Learn more about product and project management
 
-#Contact Me:
+Contact Me:
 School Email: Dsilvels@york.edu
 Personal Email:Domineece1@gmail.com
 Phone: (619 772-9964)
