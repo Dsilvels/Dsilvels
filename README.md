@@ -18,3 +18,10 @@ I am interested in project management and product management, and I am excited t
 - Web Development with Django
 - Working on computer science projects for my classes
 - Learn more about product and project management
+
+#Contact Me:
+School Email: Dsilvels@york.edu
+Personal Email:Domineece1@gmail.com
+Phone: (619 772-9964)
+Github: Dsilvels
+
