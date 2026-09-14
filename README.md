@@ -13,3 +13,8 @@ I am interested in project management and product management, and I am excited t
 - CSS
 - GitHub
 - Visual Studio Code
+
+#Current Learning Goals
+- Web Development with Django
+- Working on computer science projects for my classes
+- Learn more about product and project management
